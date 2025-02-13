@@ -1,0 +1,41 @@
+{
+    "exclude_dirs": [
+      "node_modules",
+      ".git",
+      ".expo",
+      "ios",
+      "android",
+      "__pycache__",
+      "coverage",
+      "logs",
+      "dist",
+      "build",
+      "temp",
+      "tmp",
+      "venv",
+      ".idea",
+      ".vscode",
+      "caches",
+      "test_results",
+      "output",
+      ".nyc_output",
+      ".husky"
+    ],
+    "exclude_files": [
+      ".DS_Store",
+      "package-lock.json",
+      "yarn.lock",
+      ".gitignore",
+      ".env",
+      ".env.local",
+      ".env.production",
+      ".env.staging",
+      ".eslintcache",
+      ".prettierignore",
+      "babel.config.js",
+      "metro.config.js",
+      "jest.config.js",
+      "webpack.config.js"
+    ]
+  }
+  
